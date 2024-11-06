@@ -89,6 +89,7 @@ nav a:hover {
     color: white;
     text-align: center;
     padding: 20px;
+    object-fit: cover;
 }
 
 .hero .tittle {
@@ -106,7 +107,6 @@ nav a:hover {
 
 main {
     text-align: center;
-    padding: 3rem 1rem;
 }
 
 h1 {
